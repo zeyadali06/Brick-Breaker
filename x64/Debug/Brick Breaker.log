@@ -1,0 +1,44 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\Brick Breaker\Source.cpp(194,15): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\Brick Breaker\Source.cpp(212,18): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\Brick Breaker\Source.cpp(242,17): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\Brick Breaker\Source.cpp(257,17): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\Brick Breaker\Source.cpp(271,17): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\Brick Breaker\Source.cpp(286,17): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\Brick Breaker\Source.cpp(301,17): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\user\Desktop\Brick Breaker\Source.cpp(372,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Brick Breaker\Source.cpp(382,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\Brick Breaker\Source.cpp(473,34): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\user\Desktop\Brick Breaker\Source.cpp(480,36): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\user\Desktop\Brick Breaker\Source.cpp(487,36): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\user\Desktop\Brick Breaker\Source.cpp(494,32): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\Users\user\Desktop\Brick Breaker\Source.cpp(501,33): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+  Brick Breaker.vcxproj -> C:\Users\user\Desktop\Brick Breaker\x64\Debug\Brick Breaker.exe
